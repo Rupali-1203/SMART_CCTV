@@ -44,6 +44,17 @@ SMART_CCTV is a project aimed at enhancing traditional CCTV systems by integrati
    python SMART_CCTV.py
    
    ```
+### Results
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/Rupali-1203/SMART_CCTV/blob/main/assets/results%201.png" width="300" />
+  <img src="https://github.com/Rupali-1203/SMART_CCTV/blob/main/assets/results%202.png" width="300" />
+</p>
+<p align="center">
+  <img src="https://github.com/Rupali-1203/SMART_CCTV/blob/main/assets/results%203.png" width="300" />
+  <img src="https://github.com/Rupali-1203/SMART_CCTV/blob/main/assets/results%204.png" width="300" />
+</p>
 
 ### Contributors
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-RUPALI%20SUSARPATIL-blue)](https://www.linkedin.com/in/rupali-susar-patil-86b297228/)
