@@ -6,7 +6,7 @@
 SMART_CCTV is a project aimed at enhancing traditional CCTV systems by integrating advanced image processing and machine learning techniques to provide intelligent surveillance capabilities. This project is currently in development.
 
 ### Images
-![Introduction}(https://github.com/Rupali-1203/SMART_CCTV/blob/main/assets/Introduction.png)
+![Introduction](https://github.com/Rupali-1203/SMART_CCTV/blob/main/assets/Introduction.png)
 ### Features
 - **Real-time Object Detection:** Using OpenCV for detecting objects in video feeds.
 - **Motion Detection:** Highlighting motion in the video stream.
