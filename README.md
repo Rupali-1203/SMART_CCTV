@@ -43,13 +43,7 @@ SMART_CCTV is a project aimed at enhancing traditional CCTV systems by integrati
    
    ```
 ### Screenshots
-![SMART_CCTV Screenshot 1]((https://drive.google.com/file/d/1JOO9ExJIU27wpKMp4tVtOM7wVXKERlj2/view?usp=drive_link))
-![SMART_CCTV Screenshot 2](https://your-image-link.com/screenshot2.png)
-
-### Presentation
-
-<iframe src="https://drive.google.com/file/d/1sTb7PTfs-zhLiy3pXfhynBgOlUpq75i8/view?usp=drive_link" width="640" height="480"></iframe>
-
+![Description of Image](https://drive.google.com/drive/u/0/folders/1el8eKjPftzjaeY9mcPPBxfu0j-Wyf9nQ)
 
 ### Contributors
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-RUPALI%20SUSARPATIL-blue)](https://www.linkedin.com/in/rupali-susar-patil-86b297228/)
